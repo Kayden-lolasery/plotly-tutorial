@@ -1,0 +1,7 @@
+pandas
+chart_studio
+numpy
+cufflinks
+seaborn
+matplotlib
+plotly
